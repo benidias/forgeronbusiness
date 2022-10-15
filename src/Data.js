@@ -1,0 +1,66 @@
+let shopItemsData = [
+    {
+      id: "fromage",
+      name: "Fromage",
+      price: 26000,
+      desc: "Goma Kwetu",
+      img: "images/fromage3.jpeg",
+    },
+    {
+      id: "viande",
+      name: "Viande(10kg)",
+      price: 20000,
+      desc: "Goma Kwetu",
+      img: "images/viande3.jpeg",
+    },
+    {
+      id: "saucisses",
+      name: "Saucisses",
+      price: 26000,
+      desc: "Goma Kwetu",
+      img: "images/saucisse3.jpeg",
+    },
+    {
+      id: "lait_de_Vache",
+      name: "Lait de Vache(5L)",
+      price: 30000,
+      desc: "Goma Kwetu",
+      img: "images/laitcru.jpeg",
+    },
+    {
+      id: "oignon",
+      name: "Oignon",
+      price: 3500,
+      desc: "Goma Kwetu",
+      img: "images/oignon.png",
+    },
+    {
+      id: "pommeDeTerre",
+      name: "Pomme De Terre (1Kg)",
+      price: 4000,
+      desc: "Goma Kwetu",
+      img: "images/pomme1.jpeg",
+    },
+    {
+      id: "jus_agasha",
+      name: "Jus agasha",
+      price: 30000,
+      desc: "Goma Kwetu",
+      img: "images/product-7.jpg",
+    },
+    {
+      id: "pommeDeTerre10",
+      name: "Pomme De Terre (10kg)",
+      price: 35000,
+      desc: "Goma Kwetu",
+      img: "images/pomme2.jpeg",
+    },
+    {
+      id: "piment",
+      name: "Piment Liquide",
+      price: 5000,
+      desc: "Goma Kwetu",
+      img: "images/product-12.jpg",
+    },
+    
+  ];

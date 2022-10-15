@@ -1,0 +1,72 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    font-size: 16px;
+  }
+  
+  .bi-dash-lg {
+    color: red;
+  }
+  
+  .bi-plus-lg {
+    color: green;
+  }
+  
+  /**
+  * ! style rules for label and some buttons
+  **/
+  
+  .text-center {
+    text-align: center;
+    margin-bottom: 20px;
+    
+  }
+  
+  .HomeBtn,
+  .checkout,
+  .removeAll {
+    background-color: #212529;
+    color: white;
+    border: none;
+    padding: 6px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .checkout {
+    background-color: green;
+  }
+  .removeAll {
+    background-color: red;
+  }
+  .bi-x-lg {
+    color: red;
+    font-weight: bold;
+  }
+
+.this{
+    align-items: center;
+    justify-content: center;
+}
+
+.cart {
+    position: relative;
+    background-color: #fff;
+    color: #212529;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  .cartAmount {
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    padding: 3px;
+    border-radius: 3px;
+  }
